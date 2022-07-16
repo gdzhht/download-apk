@@ -1,0 +1,13 @@
+Graph functions and equations, roots, and extrema. Find derivatives and integrals. Build tables. Construct and analyze polygons, circles, conics, and other loci. Create dynamic geometric constructions. Save and share your results. Millions of people around the world use GeoGebra to explore and learn math and science. Come join us!
+
+* Plot functions, implicit equations, polar and parametric curves
+* Find derivatives and integrals.
+* Experience transformations with sliders
+* Find special points of functions: roots, min, max, intersections
+* Construct and analyze many types of regressions.
+* Create geometric constructions
+* Measure lengths, perimeters, and areas
+* Create and analyze traces of points and loci
+* Investigate construction steps to get a deeper understanding
+* Search for free learning activities directly from our app
+* Save and share your results with friends and teachers

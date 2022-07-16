@@ -1,0 +1,70 @@
+Kiwi Browser is made to browse the internet, read news, watch videos and listen to music, without annoyances.
+
+Browse in peace.
+
+Kiwi is based on Chromium and WebKit, the engine that powers the most popular browser in the world so you won't lose your habits.
+
+We hope you'll love Kiwi as much as we do.
+
+Note for power users and supporters: We have a Discord (chat) community where you can discuss development and share ideas: https://discordapp.com/invite/XyMppQq
+
+
+Main Features:
+★ Based on the very best Chromium
+
+★ Incredible page load speed 🚀
+Thanks to our very optimised rendering engine, we are able to display web pages super fast.
+
+★ Powerful ad block that removes most of intrusive ads 🔥
+(you can enable it in Settings, Ads or use any extension of your choice)
+
+★ Super strong pop-ups blocker that really works
+
+★ Cryptojacking protection
+The first Android browser that blocks hackers from using your device to mine crypto-currency
+
+★ Unlock Facebook Web Messenger
+Go to m.facebook.com and chat with your friends without having to install FB application.
+
+
+More goodness:
+★ Night mode with customizable contrast and grayscale mode.
+100% contrast = pure AMOLED black (actually turns off pixels) - recommended!
+101% contrast = pure AMOLED black + white text
+
+★ Bottom address bar
+
+★ Manage websites that appear on the homepage
+Long-press to move or delete the tiles, click the [+] to add a new website.
+
+★ Disable AMP (Settings, Privacy)
+
+★ Block annoying notifications
+
+★ Block slow and invasive trackers to protect your privacy.
+
+★ Translation into 60 languages.
+
+★ Import / Export bookmarks.
+
+★ Custom Downloads folder
+Choose where your downloaded files are stored.
+Note: On certain Android versions, when you uninstall an app, Android also removes your downloads.
+Keep it in mind if you manipulate Kiwi (to backup bookmarks file) or transfer to another device.
+
+★ Supports many extensions
+
+==
+
+Advanced users:
+If you want to open links with an external application, you can long-press on the link, or change the default setting in Settings, Accessibility.
+
+To add a new search engine, go to your favorite search engine, and do a couple of searches, and then go to Settings, Search Engine.
+
+==
+
+Kiwi Browser is very new, and still in test. Please help us by sending a little e-mail if you see crashes, bugs or just want to say Hi 😊
+
+==
+
+Made in Estonia

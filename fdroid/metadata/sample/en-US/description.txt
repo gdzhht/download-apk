@@ -1,0 +1,10 @@
+Easily solve 3D math problems, graph 3D functions and surfaces, create geometric constructions in 3D, save and share your results. With Augmented Reality enabled, you can place math objects on any surface and walk around them! Millions of people around the world use GeoGebra to learn mathematics and science. Join us: Dynamic Mathematics for everyone!
+
+• Plot f(x,y) functions and parametric surfaces
+• Create solids, spheres, planes and many more 3D objects
+• Get intersection points and cross-sections
+• Experience sliders, points, graphs and geometry all working together
+• Search for free learning activities directly from our app
+• Save and share your results with friends and teachers
+
+We’d love to hear from you: send us your questions or feedback via Twitter @geogebra or to support@geogebra.org

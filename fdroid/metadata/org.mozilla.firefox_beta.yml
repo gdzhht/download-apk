@@ -1,0 +1,12 @@
+Categories:
+  - Internet
+License: MPL-2.0
+WebSite: https://www.mozilla.org/firefox/android/beta/all/
+IssueTracker: https://bugzilla.mozilla.org/
+Donate: https://donate.mozilla.org/
+
+#Summary: Firefox Beta
+#Description: Beta version of the Firefox browser for Android
+
+AutoUpdateMode: None
+UpdateCheckMode: None

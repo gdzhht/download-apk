@@ -1,0 +1,13 @@
+Warning: Nightly is an unstable testing and development platform. By default, Firefox Nightly automatically sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. Learn what is shared: https://www.mozilla.org/en-US/privacy/firefox/#pre-release
+
+Firefox Nightly gets updated every day and is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+
+Found a bug? Report it at: https://github.com/mozilla-mobile/fenix/issues
+
+Want to know more about the permissions Firefox requests?: https://mzl.la/Permissions
+
+See our list of supported devices and latest minimum system requirements at: https://www.mozilla.org/firefox/mobile/platforms/
+
+Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: https://www.mozilla.org/privacy/firefox/
+
+Take a browse on the wild side. Be among the first to explore future releases.
